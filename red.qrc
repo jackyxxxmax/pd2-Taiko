@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/red">
+        <file>red.gif</file>
+    </qresource>
+</RCC>

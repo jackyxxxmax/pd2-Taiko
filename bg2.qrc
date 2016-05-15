@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/bg2">
+        <file>bg2</file>
+    </qresource>
+</RCC>
